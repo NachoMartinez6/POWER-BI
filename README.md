@@ -15,5 +15,5 @@ Mis mejores deseos.
 ## Proyecto 2: Neflix Analysis
 
 <br>
-![Imagen](https://github.com/StatisticsWithJIMP/POWER-BI/blob/main/2_Proyecto_Netflix/NF_DB.jpg)
+![Imagen]("https://github.com/StatisticsWithJIMP/POWER-BI/blob/main/2_Proyecto_Netflix/NF_DB.jpg")
 
