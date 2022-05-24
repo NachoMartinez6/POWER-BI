@@ -12,3 +12,6 @@ Pd: Iré subiendo más proyectos (o eso espero) conforme los tenga limpios y bie
 Mis mejores deseos.
 
 
+Proyecto 2: Neflix Analysis
+
+![Imagen](https://github.com/StatisticsWithJIMP/POWER-BI/blob/main/2_Proyecto_Netflix/Dise%C3%B1o%20sin%20t%C3%ADtulo.jpg)
