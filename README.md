@@ -17,6 +17,3 @@ Proyecto 2: Neflix Analysis
 ![Imagen](https://github.com/StatisticsWithJIMP/POWER-BI/blob/main/2_Proyecto_Netflix/Dise%C3%B1o%20sin%20t%C3%ADtulo.jpg)
 
 
-Proyecto 2: Neflix Analysis
-
-![Imagen](https://github.com/StatisticsWithJIMP/POWER-BI/blob/main/2_Proyecto_Netflix/Netflix1.JPG)
