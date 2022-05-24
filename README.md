@@ -16,4 +16,3 @@ Proyecto 2: Neflix Analysis
 
 ![Imagen](https://github.com/StatisticsWithJIMP/POWER-BI/blob/main/2_Proyecto_Netflix/NF_DB.jpg)
 
-
