@@ -21,6 +21,3 @@ Mis mejores deseos.
 <br>
 
 ![Imagen](https://github.com/StatisticsWithJIMP/POWER-BI/blob/main/1_Proyecto_Ecommerce_Time/PT_EC_TI.jpg)
-
-
-![Imagen](https://github.com/StatisticsWithJIMP/POWER-BI/blob/main/1_Proyecto_Ecommerce_Time/Portadas_Proyectos.jpg)
