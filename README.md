@@ -17,3 +17,7 @@ Mis mejores deseos.
 
 ![Imagen](https://github.com/StatisticsWithJIMP/POWER-BI/blob/main/2_Proyecto_Netflix/NF_DB.jpg)
 
+## Proyecto 2: [E-commerce Analysis](https://github.com/StatisticsWithJIMP/POWER-BI/tree/main/1_Proyecto_Ecommerce_Time)
+<br>
+
+![Imagen](https://github.com/StatisticsWithJIMP/POWER-BI/blob/main/1_Proyecto_Ecommerce_Time/PT_EC_TI.jpg)
