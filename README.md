@@ -20,4 +20,4 @@ Mis mejores deseos.
 ## Proyecto: [E-commerce Analysis](https://github.com/StatisticsWithJIMP/POWER-BI/tree/main/Proyecto_Ecommerce_Time)
 <br>
 
-![Imagen](https://github.com/StatisticsWithJIMP/POWER-BI/blob/main/Proyecto_Ecommerce_Time/PT_DB_EC.jpg)
+![Imagen](https://github.com/StatisticsWithJIMP/POWER-BI/blob/main/Proyecto_Ecommerce/PE_PT.jpg)
