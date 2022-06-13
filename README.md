@@ -12,7 +12,7 @@ Pd: Iré subiendo más proyectos (o eso espero) conforme los tenga limpios y bie
 Mis mejores deseos.
 
 
-## Proyecto: [Neflix Analysis](https://github.com/StatisticsWithJIMP/POWER-BI/tree/main/Proyecto_Netflix)
+## Proyecto: [Neflix Analysis](https://github.com/StatisticsWithJIMP/POWER-BI/blob/main/Proyecto_Netflix/PT_NF.jpg)
 <br>
 
 ![Imagen](https://github.com/StatisticsWithJIMP/POWER-BI/blob/main/Proyecto_Netflix/NF_DB.jpg)
