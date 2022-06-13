@@ -12,12 +12,12 @@ Pd: Iré subiendo más proyectos (o eso espero) conforme los tenga limpios y bie
 Mis mejores deseos.
 
 
-## Proyecto: [Neflix Analysis](https://github.com/StatisticsWithJIMP/POWER-BI/blob/main/Proyecto_Netflix/PT_NF.jpg)
+## Proyecto: [Neflix Analysis](https://github.com/StatisticsWithJIMP/POWER-BI/tree/main/Proyecto_Netflix)
 <br>
 
-![Imagen](https://github.com/StatisticsWithJIMP/POWER-BI/blob/main/Proyecto_Netflix/NF_DB.jpg)
+![Imagen](https://github.com/StatisticsWithJIMP/POWER-BI/blob/main/Proyecto_Netflix/PT_NF.jpg)
 
-## Proyecto: [E-commerce Analysis](https://github.com/StatisticsWithJIMP/POWER-BI/tree/main/Proyecto_Ecommerce_Time)
+## Proyecto: [E-commerce Analysis](https://github.com/StatisticsWithJIMP/POWER-BI/tree/main/Proyecto_Ecommerce)
 <br>
 
 ![Imagen](https://github.com/StatisticsWithJIMP/POWER-BI/blob/main/Proyecto_Ecommerce/PT_WB.jpg)
